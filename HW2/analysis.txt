@@ -1,0 +1,5 @@
+100%. The qualitative observed times match the analysis.
+
+Merge1 grows incredibly faster than Merge2, and the speedup of Merge2 over Merge2 increases constantly with input size
+
+Quantitatively, some constants and measurements are a bit off, due to some distractions, but big-O behavior predicted is clearly visible.
